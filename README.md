@@ -10,3 +10,4 @@
 // example ai response recipient
 const msg = audits.choices[0].message.content.trim();
 console.log(msg);</pre>
+
