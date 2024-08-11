@@ -21,7 +21,7 @@ async function start() {
         model: "gemini-1.5-flash",
         contents: [{ 
           role: "user",
-          parts: [{ text: "Try to make me a neuron network diagram with explanation." }] 
+          parts: [{ text: "Try to make me a neuron network diagram with explanation." }] // Type the work order 
         }]
       }),
     });
